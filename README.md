@@ -53,7 +53,11 @@ http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&
 Den Approach Typ kann man übrigens auch ändern:
 
 ILS = ILS
+
 VOR/DME = VOR
+
 NDB/DME = NDB
+
 LOC/DME = LOC
+
 Visual = VIS
