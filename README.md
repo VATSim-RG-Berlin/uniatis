@@ -56,4 +56,4 @@ ILS = ILS
 VOR/DME = VOR
 NDB/DME = NDB
 LOC/DME = LOC
-Visual = VIS 
+Visual = VIS
